@@ -12,3 +12,4 @@ export function castStringAndNumbers(typeName: string, data: string | number): s
         return data;
     }
 }
+
