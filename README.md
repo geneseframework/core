@@ -4,3 +4,5 @@
 </p>
 
 # @genese/core
+
+Shared models and methods for @genese modules.
